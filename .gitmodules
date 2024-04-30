@@ -1,0 +1,6 @@
+[submodule "ext/datachannel-wasm"]
+	path = ext/datachannel-wasm
+	url = https://github.com/paullouisageneau/datachannel-wasm.git
+[submodule "ext/libdatachannel"]
+	path = ext/libdatachannel
+	url = https://github.com/paullouisageneau/libdatachannel.git
